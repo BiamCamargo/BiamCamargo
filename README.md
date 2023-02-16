@@ -4,7 +4,7 @@
 - :books: Estudando Front-End
 
 <div>
-## :gear: &nbsp;GitHub Analytics
+:gear: &nbsp;GitHub Analytics
 
 <p align="left">
 
